@@ -1,1 +1,1 @@
-# heroku-quotes-demo
+# Heroku Quotes API Demo
